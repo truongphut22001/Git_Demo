@@ -1,1 +1,10 @@
 bqefbasfasdf
+
+CREATE: GIT INIT
+ADD: GIT ADD .
+TAO REMOTE REPO
+Dia chi Remote repo
+Commit: Git Commit -m "Commit file len git demo"
+git remote add origin https://github.com/truongphut22001/Git_Demo.git
+
+PUSH: git push -u origin main
